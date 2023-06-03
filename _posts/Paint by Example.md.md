@@ -1,7 +1,8 @@
 ### Exemplar-based Image Editing with Diffusion Models
 ---
 created at : 2023-06-03 17:48
-#arxiv22_Nov  
+#arxiv23_Mar 
+
 ---
 ## Intro
 - conditional image로 scene을 editing하는 task. reference image의 객체를, source image의  editing region (masking)에 넣음. 기본적으로 blended diffusion, shape guided diffusion과 같은 문제를 풀어내는데 마스킹된 위치에 채워넣어야할 이미지 guidance를 text가 아닌 image로 제공한다는데 있다.![task explanation](obsidian://open?vault=SEYEON&file=src%2F%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-06-03%20%EC%98%A4%ED%9B%84%209.02.56.png)
