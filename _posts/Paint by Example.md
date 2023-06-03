@@ -15,8 +15,8 @@ created at : 2023-06-03 17:48
 	2) exampler를 적절하게 trasnform해서 넣어주는게 여간 쉬운 일이 아님.  
 	3) merging boundary가 어색하면 안됨  
 	4) reference 이미지의 resolution이 source image보다 안좋을때가 많음. 따라서 process과정에 super-resolution을 포함해야 됨.
-- condition으로  CLIP textencoder의 결과 (77토큰)을 넣어주는데 얘를 CLIP image encoder의 결과로 단순 대체해서 넣어준 결과.  training 과정에서 loss잘 떨어지는데 test set 돌려보면 unsatisfact하다.![[Pasted image 20230603175222.png]]
-- training process![[Pasted image 20230603175256.png]]
+- condition으로  CLIP textencoder의 결과 (77토큰)을 넣어주는데 얘를 CLIP image encoder의 결과로 단순 대체해서 넣어준 결과.  training 과정에서 loss잘 떨어지는데 test set 돌려보면 unsatisfact하다.![](/Users/seyeon/Library/Mobile Documents/iCloud~md~obsidian/Documents/SEYEON/src/Pasted image 20230603175222.png)
+- training process![](/Users/seyeon/Library/Mobile Documents/iCloud~md~obsidian/Documents/SEYEON/src/Pasted image 20230603175256.png)
 - CLIP text token을 condition으로 사용한다면 semantic한 의미를 intrincsic하게 해석할 수 있게 된다. 그러나 CLIP image token은 image에 대한 정보를 그자체로도 너무 잘 유지하고 잇어서 copy/paste라는 trivial solution으로 가기가 쉬운것...
 - 해당 논문에서는 그래서 one dimensional 1024 vector - class token만을 사용한다!!!  high frequency detail은 좀 버려주는 동시에, highly compressed된 semantic information을 제공한다.  
 - null text condition을 주듯 learnable vector v를 20%의 비율로 reference ocndition을 대체해서 부여함. inference step에서는 CFG 식을 다음과 같이 짜둠. ![[Pasted image 20230603175409.png]]
