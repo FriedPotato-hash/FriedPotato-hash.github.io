@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "file": "_posts/2023-06-03-Paint-by-Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 422.5
   },
   "right": {
     "id": "5ff01e04f1086d6f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "file": "_posts/2023-06-03-Paint-by-Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "file": "_posts/2023-06-03-Paint-by-Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-03-Paint by Example.md.md"
+                "file": "_posts/2023-06-03-Paint-by-Example.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "4ce6d7a016c4a38f",
   "lastOpenFiles": [
-    "_posts/2023-06-03.md",
-    "_posts/2023-06-03-Paint by Example.md.md",
-    "_posts/Prompt-free Diffusion.md.md",
+    "templates/yyyy-mm-dd-PaperName.md",
+    "_posts/2023-06-03-Paint-by-Example.md",
     "_posts/Self Guidance Diffusion.md.md",
-    "templates/yyyy-mm-dd-PaperName.md.md",
+    "_posts/Prompt-free Diffusion.md.md",
+    "_posts/2023-06-03.md",
     "_posts/Pasted image 20230603205652.png.md",
     "templates",
     "Images",
