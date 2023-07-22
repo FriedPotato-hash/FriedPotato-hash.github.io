@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-03-Paint-by-Example.md",
+                "file": "_posts/2023-05-31-UmmDiffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 206.5
   },
   "right": {
     "id": "5ff01e04f1086d6f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-03-Paint-by-Example.md",
+                "file": "_posts/2023-05-31-UmmDiffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-03-Paint-by-Example.md",
+                "file": "_posts/2023-05-31-UmmDiffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-03-Paint-by-Example.md"
+                "file": "_posts/2023-05-31-UmmDiffusion.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4ce6d7a016c4a38f",
+  "active": "47d8e673fd3dab9d",
   "lastOpenFiles": [
-    "templates/yyyy-mm-dd-PaperName.md",
+    "_posts/2023-05-31-ELITE.md",
+    "_posts/2023-05-31-UmmDiffusion.md",
+    "_posts/2023-07-17-AnimateDiff.md",
     "_posts/2023-06-03-Paint-by-Example.md",
+    "templates/yyyy-mm-dd-PaperName.md",
     "_posts/Self Guidance Diffusion.md.md",
     "_posts/Prompt-free Diffusion.md.md",
     "_posts/2023-06-03.md",
