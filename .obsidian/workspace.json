@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "852528d092d1a887",
+    "type": "split",
+    "children": [
+      {
+        "id": "278e144e8f95da9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d8e673fd3dab9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c665a4cf44fd8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f615d9b2249c43f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ce6d7a016c4a38f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e643641ce1532bda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "246f8bc2396655d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "5ff01e04f1086d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacef41828187170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60237dac67956998",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e360d9bed4ef3624",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-06-03-Paint by Example.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bac42eb69cbeb9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee05cd2dbe10b832",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-06-03-Paint by Example.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4ce6d7a016c4a38f",
+  "lastOpenFiles": [
+    "_posts/2023-06-03.md",
+    "_posts/2023-06-03-Paint by Example.md.md",
+    "_posts/Prompt-free Diffusion.md.md",
+    "_posts/Self Guidance Diffusion.md.md",
+    "templates/yyyy-mm-dd-PaperName.md.md",
+    "_posts/Pasted image 20230603205652.png.md",
+    "templates",
+    "Images",
+    "스크린샷 2023-06-03 오후 9.02.56.png.md"
+  ]
+}

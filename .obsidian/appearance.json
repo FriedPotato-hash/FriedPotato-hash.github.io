@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Big Sur Aesthetic",
+  "enabledCssSnippets": [
+    "icons",
+    "image_align",
+    "quote_beutify",
+    "zoom_on_image"
+  ]
+}
