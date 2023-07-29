@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-31-UmmDiffusion.md",
+                "file": "_posts/2023-07-30-음정처-논문정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-05-31-UmmDiffusion.md",
+                "file": "_posts/2023-07-30-음정처-논문정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-05-31-UmmDiffusion.md",
+                "file": "_posts/2023-07-30-음정처-논문정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-05-31-UmmDiffusion.md"
+                "file": "_posts/2023-07-30-음정처-논문정리.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "47d8e673fd3dab9d",
   "lastOpenFiles": [
-    "_posts/2023-05-31-ELITE.md",
     "_posts/2023-05-31-UmmDiffusion.md",
+    "_posts/2023-07-30-음정처-논문정리.md",
+    "_posts/2023-05-31-ELITE.md",
     "_posts/2023-07-17-AnimateDiff.md",
     "_posts/2023-06-03-Paint-by-Example.md",
     "templates/yyyy-mm-dd-PaperName.md",
