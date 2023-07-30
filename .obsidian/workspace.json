@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-30-음정처-논문정리.md",
+                "file": "_posts/2023-06-17-All-In-One-Deflicker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 400.5
   },
   "right": {
     "id": "5ff01e04f1086d6f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-30-음정처-논문정리.md",
+                "file": "_posts/2023-06-17-All-In-One-Deflicker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-30-음정처-논문정리.md",
+                "file": "_posts/2023-06-17-All-In-One-Deflicker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-30-음정처-논문정리.md"
+                "file": "_posts/2023-06-17-All-In-One-Deflicker.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "47d8e673fd3dab9d",
   "lastOpenFiles": [
+    "_posts/2023-07-30-Paper-Review.md",
+    "_posts/2023-06-17-All-In-One-Deflicker.md",
+    "_posts/2023-06-03-Paint-by-Example.md",
     "_posts/2023-05-31-UmmDiffusion.md",
-    "_posts/2023-07-30-음정처-논문정리.md",
     "_posts/2023-05-31-ELITE.md",
     "_posts/2023-07-17-AnimateDiff.md",
-    "_posts/2023-06-03-Paint-by-Example.md",
     "templates/yyyy-mm-dd-PaperName.md",
     "_posts/Self Guidance Diffusion.md.md",
     "_posts/Prompt-free Diffusion.md.md",
