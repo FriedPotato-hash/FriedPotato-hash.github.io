@@ -1,3 +1,18 @@
+---
+title:  "All-In-One-Deflicker: Blind Video Deflickering by Neural Flitering with a Flawed Atlas"
+excerpt: "Blind Video Deflickering by Neural Flitering with a Flawed Atlas"
+
+categories:
+  - Paper/{etc.}
+tags:
+  - [Video]
+
+toc: true
+toc_sticky: true
+ 
+date: 2023-06-17
+last_modified_at: 2023-06-17
+---
 ### Blind Video Deflickering by Neural Flitering with a Flawed Atlas
 
 created at : 2023-06-17 14:22
@@ -7,6 +22,7 @@ created at : 2023-06-17 14:22
 - 대부분의 video processign algorithm이 갖고 있는 문제; flickering artifacts를 해결하기 위해 제시된 post-processing 논문.
 - 이전 work들은 flickering frequency, manual annotation등을 사람이 일일히 제공하거나 여분의 consistent video를 추가로 제공해야 됐음. 해당 논문은 추가적인 정보나 영상없이 하나의 input video만 있어도 de-flickering할 수 있도록 방법론 제시
 - neural atlas를 neural filtering strategy와 함께 사용하는데, neural atlas는 하나의 비디오 안에서의 unified representation이고 temporal consistency guidance를 제공함. ![[스크린샷 2023-06-17 오후 3.03.16.png]]
+![[/Users/seyeon/Library/Mobile Documents/iCloud~md~obsidian/Documents/SEYEON/src/스크린샷 2023-06-17 오후 3.03.16.png]]
 
 ## Method
 - video에서 unified representatoin(atlas)를 뽑아내고, deflickering하는데 있어 consistent guidance를 제공함. atlas가 flawed하기 때문에 neural filtering strategy로 flaws를 필터링한다.
