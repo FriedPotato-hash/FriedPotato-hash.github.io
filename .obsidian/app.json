@@ -6,5 +6,12 @@
   "attachmentFolderPath": "/Users/seyeon/Library/Mobile Documents/iCloud~md~obsidian/Documents/SEYEON/src",
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

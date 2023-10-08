@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/무제 파일.md",
+                "file": "_posts/2023-10-08-Training-Free-Layout-Control-with-Cross-Attention-Guidance.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 210.5
   },
   "right": {
     "id": "5ff01e04f1086d6f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/무제 파일.md",
+                "file": "_posts/2023-10-08-Training-Free-Layout-Control-with-Cross-Attention-Guidance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/무제 파일.md",
+                "file": "_posts/2023-10-08-Training-Free-Layout-Control-with-Cross-Attention-Guidance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/무제 파일.md"
+                "file": "_posts/2023-10-08-Training-Free-Layout-Control-with-Cross-Attention-Guidance.md"
               }
             }
           },
@@ -158,9 +158,24 @@
   },
   "active": "47d8e673fd3dab9d",
   "lastOpenFiles": [
-    "_posts/2023-09-24-PhotoVerse.md",
-    "_posts/무제 파일.md",
+    "스크린샷 2023-10-09 오전 12.42.45.png",
+    "스크린샷 2023-10-09 오전 12.42.38.png",
+    "스크린샷 2023-10-09 오전 12.42.27.png",
+    "Pasted image 20231009004140.png",
+    "Pasted image 20231009004113.png",
+    "Pasted image 20231009004041.png",
+    "Pasted image 20231009004021.png",
+    "Pasted image 20231009003844.png",
+    "_posts/2023-10-08-Directed-Diffusion.md",
+    "_posts/2023-10-08-Training-Free-Layout-Control-with-Cross-Attention-Guidance.md",
+    "스크린샷 2023-10-09 오전 12.21.13.png",
+    "Pasted image 20231009001753.png",
+    "Pasted image 20231009001724.png",
+    "_posts/2023-10-08-LEO.md",
     "_posts/2023-09-24-TokenFlow.md",
+    "templates/paper.md",
+    "templates",
+    "_posts/2023-09-24-PhotoVerse.md",
     "_posts/2023-06-20-LAMD.md",
     "_posts/2023-06-17-All-In-One-Deflicker.md",
     "_posts/2023-07-17-AnimateDiff.md",
