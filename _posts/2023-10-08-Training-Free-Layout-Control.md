@@ -4,6 +4,7 @@ title:  "Training-Free Layout Control with Cross-Attention Guidance"
 
 categories:
   - Paper/Attention-guidance
+
 toc: true
 toc_sticky: true
  
