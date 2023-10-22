@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-LayoutDiffusion.md",
+                "file": "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-LayoutDiffusion.md",
+                "file": "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-LayoutDiffusion.md",
+                "file": "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-LayoutDiffusion.md"
+                "file": "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md"
               }
             }
           },
@@ -158,21 +158,23 @@
   },
   "active": "47d8e673fd3dab9d",
   "lastOpenFiles": [
-    "source/Pasted image 20231008191124.png",
-    "source/스크린샷 2023-10-08 오후 7.13.59.png",
-    "source/스크린샷 2023-10-08 오후 7.14.17.png",
+    "_posts/2023-10-20-DPE.md",
+    "_posts/2023-10-19-EDGE.md",
+    "source/Pasted image 20231020203927.png",
+    "source/Pasted image 20231020203911.png",
+    "source/Pasted image 20231020203849.png",
+    "source/Pasted image 20231020203810.png",
+    "source/Pasted image 20231020203745.png",
+    "source/Pasted image 20231020203719.png",
+    "source/Pasted image 20231020203624.png",
+    "source/Pasted image 20231020203528.png",
+    "source/Pasted image 20231020203355.png",
+    "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
+    "source/스크린샷 2023-10-20 오후 8.14.41.png",
+    "_posts/2023-10-10-LayoutDiffusion.md",
     "_posts/2023-10-12-MoCo-DAD.md",
     "source",
     "_posts/2023-10-10-Refining-Generative-Process-with-Discriminator-Guidance-in-Score-based-Diffusion-Models.md",
-    "_posts/2023-10-10-LayoutDiffusion.md",
-    "source/스크린샷 2023-10-13 오후 10.19.25.png",
-    "source/Pasted image 20231013221746.png",
-    "source/Pasted image 20231013221607.png",
-    "source/Pasted image 20231013214257.png",
-    "source/Pasted image 20231013214232.png",
-    "source/Pasted image 20231013214138.png",
-    "source/스크린샷 2023-10-12 오후 9.07.44.png",
-    "source/스크린샷 2023-10-10 오후 9.51.40.png",
     "_posts/2023-05-31-ELITE.md",
     "_posts/2023-10-08-LEO.md",
     "_posts/2023-10-08-Training-Free-Layout-Control.md",
