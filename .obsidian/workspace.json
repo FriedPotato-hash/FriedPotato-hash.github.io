@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "798d8d849e45bb65",
+            "id": "7b63011b6d677740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-28-LipFormer.md",
+                "file": "_posts/2023-12-02-StyleGAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "5ff01e04f1086d6f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-28-LipFormer.md",
+                "file": "_posts/2023-12-02-StyleGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-28-LipFormer.md",
+                "file": "_posts/2023-12-02-StyleGAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-28-LipFormer.md"
+                "file": "_posts/2023-12-02-StyleGAN.md"
               }
             }
           },
@@ -157,45 +156,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "798d8d849e45bb65",
+  "active": "7b63011b6d677740",
   "lastOpenFiles": [
+    "_posts/2023-12-02-MIDAS.md",
+    "_posts/2023-12-02-camera-pose-matters.md",
+    "_posts/2023-12-02-StyleGAN.md",
+    "source/Pasted image 20231202002654.png",
+    "source/Pasted image 20231202002642.png",
+    "source/Pasted image 20231202002636.png",
+    "source/Pasted image 20231202002556.png",
+    "source/Pasted image 20231202002542.png",
+    "source/Pasted image 20231202002528.png",
+    "source/Pasted image 20231202002520.png",
+    "source/Pasted image 20231202002508.png",
+    "source/Pasted image 20231202002456.png",
+    "source/Pasted image 20231202002449.png",
+    "_posts/2023-11-24-Panoptic-FPN.md",
+    "_posts/2023-11-24-InfoNeRF.md",
+    "_posts/2023-11-24-Palette.md",
+    "_posts/2023-11-10-Diffusion-Video-Autoencoders.md",
+    "_posts/2023-11-10-DiffTalk.md",
+    "_posts/2023-11-10-DiffusedHead.md",
+    "_posts/2023-10-12-MoCo-DAD.md",
+    "_posts/2023-10-19-EDGE.md",
+    "_posts/2023-10-20-DPE.md",
+    "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
+    "_posts/2023-11-03-StarGan2.md",
+    "_posts/2023-11-03-DIFFGANPAINT.md",
+    "_posts/2023-10-30-LFDM.md",
+    "_posts/2023-10-28-LipFormer.md",
     "_posts/2023-10-28-Repaint.md",
     "_posts/2023-10-27-DPE.md",
-    "_posts/2023-10-28-LipFormer.md",
-    "source/Pasted image 20231028003230.png",
-    "source/Pasted image 20231028003224.png",
-    "source/Pasted image 20231028003220.png",
-    "source/Pasted image 20231028003217.png",
-    "source/Pasted image 20231028003211.png",
-    "source/Pasted image 20231028003206.png",
-    "source/Pasted image 20231028003157.png",
-    "source/Pasted image 20231028003151.png",
-    "source/Pasted image 20231028003119.png",
-    "source/Pasted image 20231028003012.png",
-    "_posts/2023-10-20-Motion-Conditioned-Diffusion-Model-for-Controllable-Video-Synthesis.md",
-    "_posts/2023-10-20-DPE.md",
-    "_posts/2023-10-19-EDGE.md",
     "_posts/2023-10-10-LayoutDiffusion.md",
-    "_posts/2023-10-12-MoCo-DAD.md",
     "source",
     "_posts/2023-10-10-Refining-Generative-Process-with-Discriminator-Guidance-in-Score-based-Diffusion-Models.md",
     "_posts/2023-05-31-ELITE.md",
     "_posts/2023-10-08-LEO.md",
     "_posts/2023-10-08-Training-Free-Layout-Control.md",
     "_posts/2023-10-08-Directed-Diffusion.md",
-    "_posts/2023-09-24-TokenFlow.md",
-    "templates/paper.md",
     "templates",
-    "_posts/2023-09-24-PhotoVerse.md",
-    "_posts/2023-06-20-LAMD.md",
-    "_posts/2023-06-17-All-In-One-Deflicker.md",
-    "_posts/2023-07-17-AnimateDiff.md",
-    "_posts/2023-07-30-Paper-Review.md",
-    "_posts/2023-06-03-Paint-by-Example.md",
-    "_posts/2023-05-31-UmmDiffusion.md",
-    "templates/yyyy-mm-dd-PaperName.md",
-    "_posts/Self Guidance Diffusion.md.md",
-    "_posts/Prompt-free Diffusion.md.md",
     "templates",
     "Images"
   ]
