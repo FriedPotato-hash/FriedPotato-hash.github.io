@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-02-StyleGAN.md",
+                "file": "_posts/2023-12-08-fastcomposer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-02-StyleGAN.md",
+                "file": "_posts/2023-12-08-fastcomposer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-02-StyleGAN.md",
+                "file": "_posts/2023-12-08-fastcomposer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-02-StyleGAN.md"
+                "file": "_posts/2023-12-08-fastcomposer.md"
               }
             }
           },
@@ -158,19 +158,23 @@
   },
   "active": "7b63011b6d677740",
   "lastOpenFiles": [
+    "_posts/2023-12-08-Multi-Concept-Customization-of-Text-to-Image-Diffusion.md",
+    "_posts/2023-12-08-fastcomposer.md",
+    "_posts/2023-12-08-Cones.md",
+    "source/Pasted image 20231208211758.png",
+    "source/Pasted image 20231208211748.png",
+    "source/Pasted image 20231208211738.png",
+    "source/Pasted image 20231208211732.png",
+    "source/Pasted image 20231208211725.png",
+    "source/Pasted image 20231208211719.png",
+    "source/Pasted image 20231208211711.png",
+    "source/Pasted image 20231208211640.png",
+    "source/Pasted image 20231208211629.png",
+    "source/Pasted image 20231208211608.png",
+    "_posts/2023-12-06-ViCo.md",
+    "_posts/2023-12-02-StyleGAN.md",
     "_posts/2023-12-02-MIDAS.md",
     "_posts/2023-12-02-camera-pose-matters.md",
-    "_posts/2023-12-02-StyleGAN.md",
-    "source/Pasted image 20231202002654.png",
-    "source/Pasted image 20231202002642.png",
-    "source/Pasted image 20231202002636.png",
-    "source/Pasted image 20231202002556.png",
-    "source/Pasted image 20231202002542.png",
-    "source/Pasted image 20231202002528.png",
-    "source/Pasted image 20231202002520.png",
-    "source/Pasted image 20231202002508.png",
-    "source/Pasted image 20231202002456.png",
-    "source/Pasted image 20231202002449.png",
     "_posts/2023-11-24-Panoptic-FPN.md",
     "_posts/2023-11-24-InfoNeRF.md",
     "_posts/2023-11-24-Palette.md",
@@ -190,10 +194,6 @@
     "_posts/2023-10-10-LayoutDiffusion.md",
     "source",
     "_posts/2023-10-10-Refining-Generative-Process-with-Discriminator-Guidance-in-Score-based-Diffusion-Models.md",
-    "_posts/2023-05-31-ELITE.md",
-    "_posts/2023-10-08-LEO.md",
-    "_posts/2023-10-08-Training-Free-Layout-Control.md",
-    "_posts/2023-10-08-Directed-Diffusion.md",
     "templates",
     "templates",
     "Images"
